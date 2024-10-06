@@ -1,4 +1,4 @@
-# User Authentication API
+# Contact & Spam Report App API + Simple UI
 
 A RESTful API for user authentication and management.
 
