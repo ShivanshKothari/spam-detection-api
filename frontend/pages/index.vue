@@ -1,6 +1,5 @@
 <template>
-<div>
-    <h>My index page</h>
-    <p>This is my index page let's see whether this changes</p>
-</div>
+    <div>
+    <h1>This is an index page</h1>
+    </div>
 </template>
