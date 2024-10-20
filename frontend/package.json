@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@rive-app/react-canvas": "^4.14.5",
     "nuxt": "^3.13.0",
     "vue": "latest",
     "vue-router": "latest"
